@@ -1,0 +1,15 @@
+p {color: rgba(25, 0, 255, 0.806)}
+p.cursiv {font-family: cursive;}
+#destacado{color:blueviolet;}
+h1 {color:rgb(172, 108, 141)
+    ;font-size: x-large;text-align: center;
+    }
+
+h2,h3 {color:rgb(172, 108, 141)
+        ;font-size: x-large;
+    }
+
+img {width: 100%;
+    display: block;
+    }
+    
